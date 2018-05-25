@@ -1,0 +1,18 @@
+#register lable{
+	display: inline-block;
+	width: 100px;
+	
+}
+#register_submit{
+	padding-left: 100px;
+}
+.error{
+	color: red;
+	margin-left: 10px;
+}		
+
+.error_show{
+	color: green;
+	margin-left: 10px;
+}
+
